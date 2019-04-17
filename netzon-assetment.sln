@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28809.33
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netzon-assetment", "netzon-assetment\netzon-assetment.csproj", "{4A31A5DA-0972-4709-A48F-3E3B83518D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netzon-api-test", "netzon-api-test\netzon-api-test.csproj", "{A34230F3-DD3D-47F5-A9DA-D52DCCB80B40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A31A5DA-0972-4709-A48F-3E3B83518D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A31A5DA-0972-4709-A48F-3E3B83518D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A31A5DA-0972-4709-A48F-3E3B83518D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A31A5DA-0972-4709-A48F-3E3B83518D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34230F3-DD3D-47F5-A9DA-D52DCCB80B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34230F3-DD3D-47F5-A9DA-D52DCCB80B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34230F3-DD3D-47F5-A9DA-D52DCCB80B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34230F3-DD3D-47F5-A9DA-D52DCCB80B40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8B23EE4-0C1B-430B-A651-9E74C98A6E7A}
+	EndGlobalSection
+EndGlobal
